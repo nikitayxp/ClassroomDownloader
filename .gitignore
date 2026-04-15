@@ -1,0 +1,14 @@
+# Ambientes Virtuais
+.venv/
+
+# Ficheiros de Configuração e Chaves (Segurança)
+credentials.json
+token.pickle
+config.json
+
+# Ficheiros compilados e logs
+__pycache__/
+build/
+dist/
+*.spec
+_download_report_*.json
