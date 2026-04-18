@@ -150,4 +150,4 @@ Classroom_Downloads/
 
 ## Licença
 
-Uso educacional e pessoal. Ajuste a política de licenciamento conforme o seu contexto de publicação no GitHub.
+Uso educacional e pessoal.
